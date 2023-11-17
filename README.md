@@ -1,6 +1,12 @@
 # TinDog 🐾
 Welcome to TinDog, where dogs meet their perfect companions! 🌟
 
+![Screenshot 2023-10-13 162103](https://github.com/YawBoah/DogLoveShop-TinDog/assets/126890146/3a03239e-6d2d-45cf-b710-54e9ea5dd2d0)
+![Screenshot 2023-10-13 162115](https://github.com/YawBoah/DogLoveShop-TinDog/assets/126890146/3448610a-69d7-4bca-9324-6385d45ca2ab)
+![Screenshot 2023-10-13 162133](https://github.com/YawBoah/DogLoveShop-TinDog/assets/126890146/b26bc96c-4d35-40a9-8ba3-ab8f52037171)
+![Screenshot 2023-10-13 162145](https://github.com/YawBoah/DogLoveShop-TinDog/assets/126890146/94f16079-3997-4b86-aac4-00f2580fcd10)
+![Screenshot 2023-10-13 162152](https://github.com/YawBoah/DogLoveShop-TinDog/assets/126890146/e9e61cf1-efbb-4e21-9d4f-b74e0bcaf06d)
+
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
