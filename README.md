@@ -52,7 +52,7 @@ Choose the plan that suits your dog's needs:
   - Unlimited App Usage
 
 ## Contact
-Have questions or suggestions? Reach out to us at [info@tindog.com](https://yawboah.github.io/DogShop/).
+Have questions or suggestions? Reach out to us at [info@tindog.com](https://yawboah.github.io/DogLoveShop-TinDog/).
 
 ## Contributing
 Contributions are welcome! Feel free to fork this project and submit pull requests to make TinDog even more pawsome.
